@@ -1,0 +1,1 @@
+This project deals with expansions, initializations, and aliases in shell.
