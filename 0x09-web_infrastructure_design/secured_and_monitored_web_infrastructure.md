@@ -2,7 +2,7 @@
 
 ## 2. Secured and monitored web infrastructure
 
-### Specifics About This Infrastructure
+### Specific Details About This Infrastructure
 
 - **What firewalls are for.** <br />
     They monitor and filter incoming and outgoing network traffic based on an organization's previously established security policies.

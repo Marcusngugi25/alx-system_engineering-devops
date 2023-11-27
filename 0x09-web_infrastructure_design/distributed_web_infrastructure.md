@@ -2,7 +2,7 @@
 
 ## 1. Distributed web infrastructure
 
-### Specifics About This Infrastructure
+### Specific Details About This Infrastructure
 
 - **The distribution algorithm the load balancer is configured with and how it works.** <br />
     The HAProxy load balancer is configured with the Round Robin distribution algorithm. A client request is forwarded to each server in turn. The algorithm instructs the load balancer to go back to the top of the list and repeats again.
